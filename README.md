@@ -9,7 +9,8 @@ The test accuracy of the PyTorch and Keras models are:
 
 PyTorch: 0.9912
 Keras: 0.9912
-Both models demonstrate a high accuracy in predicting breast cancer diagnosis.
+
+Both models demonstrate a high accuracy in predicting breast cancer diagnosis. While both PyTorch and Keras achieve similar performance in this project, Keras is generally easier to use, due to its simplicity and high-level abstractions. PyTorch, on the other hand, offers more flexibility and control for advanced users who need to build complex models or dive deep into the framework's internals.
 
 # Getting Started
 To get started, you will need to have a Google account to access the Colab platform. Once you have access, you can open the DL_HW.ipynb notebook file in Colab and execute the code cells.
