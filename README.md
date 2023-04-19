@@ -12,4 +12,4 @@ Keras: 0.9912
 Both models demonstrate a high accuracy in predicting breast cancer diagnosis.
 
 # Getting Started
-To get started, you will need to have a Google account to access the Colab platform. Once you have access, you can open the picture_slicing.ipynb notebook file in Colab and execute the code cells.
+To get started, you will need to have a Google account to access the Colab platform. Once you have access, you can open the DL_HW.ipynb notebook file in Colab and execute the code cells.
